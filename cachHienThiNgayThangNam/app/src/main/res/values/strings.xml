@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cachHienThiNgayThangNam</string>
+    <string-array name="namNu">
+        <item>男</item>
+        <item>女</item>
+        <item>以外</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/white"/>
+    <item>
+        <bitmap android:src="@drawable/kirito" android:gravity="center"/>
+    </item>
+    <item>
+        <bitmap android:src="@android:drawable/button_onoff_indicator_on" android:gravity="center"/>
+    </item>
+</layer-list>

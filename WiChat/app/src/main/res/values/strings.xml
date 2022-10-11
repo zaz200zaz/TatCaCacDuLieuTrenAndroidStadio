@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WiChat</string>
+    <string name="app_name1">パスワード忘れた</string>
+    <string name="app_name2">ログイン画面</string>
+    <string name="app_name3">アカウント制作</string>
+    <string name="発見">発見</string>
+    <string name="自分">自分</string>
+    <string name="連絡先">連絡先</string>
+    <string name="チャット">チャット</string>
+</resources>

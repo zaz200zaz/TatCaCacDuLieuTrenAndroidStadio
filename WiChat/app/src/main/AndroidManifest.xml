@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.wichat">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/wichat"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/wichat"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WiChat"
+        tools:targetApi="31">
+        <activity
+            android:name=".RenrakuChyo3"
+            android:exported="false" />
+        <activity
+            android:name=".ChatGamen_3"
+            android:exported="false" />
+        <activity
+            android:name=".MessagerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Renrakuchou"
+            android:exported="false"
+            android:label="@string/連絡先" />
+        <activity
+            android:name=".Hakken"
+            android:exported="false"
+            android:label="@string/発見" />
+        <activity
+            android:name=".Jibun"
+            android:exported="false"
+            android:label="@string/自分" />
+        <activity
+            android:name=".ManHinhCho"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AcountNinSyou"
+            android:label="@string/app_name1" />
+        <activity
+            android:name=".AcountSakuSeiGamen"
+            android:label="@string/app_name3" />
+        <activity
+            android:name=".ChatGamen"
+            android:label="チャット画面" />
+        <activity
+            android:name=".PasswordSettei"
+            android:label="パスワード設定" />
+        <activity
+            android:name=".MiTouRoku"
+            android:label="@string/app_name2" />
+        <activity
+            android:name=".NinSyouGamen"
+            android:label="認証画面" />
+        <activity
+            android:name=".PasswordHenko"
+            android:label="パスワード変更" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.wichat.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_pat" />
+        </provider>
+    </application>
+
+</manifest>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable-v24/img_cancel.xml" value="0.2095" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/account_img.xml" value="0.1575" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/dau_lon_hon_img.xml" value="0.2095" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/graident.xml" value="0.1575" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/hakken_img.xml" value="0.2095" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/img_add.xml" value="0.2095" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/jibun_image.xml" value="0.1575" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/logout_img.xml" value="0.2095" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/message_image.xml" value="0.1575" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/message_input_background.xml" value="0.1575" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/renraku_saki_img.xml" value="0.2095" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/round_blue_shape.xml" value="0.2555" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/search_img.xml" value="0.1575" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/drawable/send_image.xml" value="0.1215" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_acount_nin_syou.xml" value="0.136" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_acount_saku_sei_gamen.xml" value="0.264" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_chat_gamen.xml" value="0.12" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_chat_gamen3.xml" value="0.1" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_hakken.xml" value="0.25" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_jibun.xml" value="0.264" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_man_hinh_cho.xml" value="0.25" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_message.xml" value="0.25" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_messager.xml" value="0.1" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_mi_tou_ro_ku.xml" value="0.152" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_nin_syou_gamen.xml" value="0.2" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_password_henko.xml" value="0.152" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_password_settei.xml" value="0.264" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_profile.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_renraku_chyo3.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_renrakuchou.xml" value="0.176" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/activity_use_adapter.xml" value="0.25" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/fine_holder.xml" value="0.25" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/image_message_holder.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/message_holder.xml" value="0.25" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/layout/user_holder.xml" value="0.25" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/menu/profile_menu.xml" value="0.25" />
+        <entry key="..\:/Users/trant/AndroidStudioProjects/WiChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2555" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
