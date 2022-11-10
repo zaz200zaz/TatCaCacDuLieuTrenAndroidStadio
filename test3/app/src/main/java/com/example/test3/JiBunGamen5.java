@@ -217,7 +217,6 @@ public class JiBunGamen5 extends AppCompatActivity implements AdapterView.OnItem
                     String postCode3 = postCode2.replaceAll("[-_*+.,;:`\\[\\]\\{\\}]","");
                     try{
                         //okhttpを利用するカスタム関数（下記）
-
                         httpRequest(url+postCode3);
                     }catch(Exception e){
                         Log.e("Hoge",e.getMessage());

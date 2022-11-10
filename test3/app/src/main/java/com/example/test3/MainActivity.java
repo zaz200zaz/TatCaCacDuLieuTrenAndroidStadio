@@ -50,20 +50,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-//        if (checkSelfPermission(Manifest.permission.CAMERA) != PackageManager.PERMISSION_GRANTED) {
-//            requestPermissions(new String[]{Manifest.permission.CAMERA}, MY_CAMERA_REQUEST_CODE);
-//        }
         textView = findViewById(R.id.textView);
         imageView = findViewById(R.id.imageView);
         requestStoragePermission();
         imageView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-//                if (ContextCompat.checkSelfPermission(MainActivity.this,Manifest.permission.CAMERA)!= PackageManager.PERMISSION_DENIED){
-//                    Toast.makeText(MainActivity.this, " đồng ý ", Toast.LENGTH_SHORT).show();
-//                }else
-//                    requestStoragePermission();
                 requestStoragePermission();
             }
         });
